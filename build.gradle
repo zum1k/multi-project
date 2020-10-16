@@ -11,6 +11,7 @@ repositories {
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'
-    implementation name: 'utils'
+
+    compile files('C:\\Users\\smugl\\IdeaProjects\\utils\\out\\artifacts\\utils_1_3_5_jar\\utils.jar')
 
 }

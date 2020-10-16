@@ -8,5 +8,8 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
+dependencies {
+    compile files('C:\\Users\\smugl\\IdeaProjects\\utils\\out\\artifacts\\utils_1_3_5_jar\\utils.jar')
+}
 
 
